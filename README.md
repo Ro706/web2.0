@@ -46,10 +46,11 @@ The HTML element is everything from the start tag to the end tag:
 <p>My first paragraph.</p>
 ```
 Start tag   Element content	End tag
+```shell
 <h1>	    My First Heading	</h1>
 <p>	   My first paragraph.	</p>
 <br>	            none	none
-
+```
 Name the file `"index.htm"` and set
  the encoding to UTF-8 (which is the 
 preferred encoding for HTML files).
