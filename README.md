@@ -11,7 +11,7 @@ Q.What is HTML?<br>
 
 A Simple HTML Document
 ```shell
-<-- this code 1 -->
+<!-- this code 1 -->
 <!DOCTYPE html> 
 <html>
   <head>
