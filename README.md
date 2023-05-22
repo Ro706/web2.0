@@ -11,17 +11,18 @@ Q.What is HTML?<br>
 
 A Simple HTML Document
 ```shell
-<!DOCTYPE html>
+<-- this code 1 -->
+<!DOCTYPE html> 
 <html>
-<head>
-<title>Page Title</title>
-</head>
-<body>
+  <head>
+   <title>Page Title</title>
+  </head>
+  <body>
 
-<h1>My First Heading</h1>
-<p>My first paragraph.</p>
+   <h1>My First Heading</h1>
+   <p>My first paragraph.</p>
 
-</body>
+  </body>
 </html>
 ```
 # Example Explained
