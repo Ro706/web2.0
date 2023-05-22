@@ -47,9 +47,8 @@ The HTML element is everything from the start tag to the end tag:
 ```
 Start tag   Element content	End tag
 ```shell
-<h1>	    My First Heading	</h1>
-<p>	   My first paragraph.	</p>
-<br>	            none	none
+<h1>	My First Heading	</h1>
+<p>	 My first paragraph.	</p>
 ```
 Name the file `"index.htm"` and set
  the encoding to UTF-8 (which is the 
