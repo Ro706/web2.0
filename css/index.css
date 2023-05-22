@@ -1,7 +1,16 @@
 *{
-  padding :10px;
-  color:red;
+  padding: 0; /*  paddingproperties are used to generate space around an element's content, inside of any defined borders */
+  margin: 0; /*  to generate space around an element's content, inside of any defined borders */
 }
+
+body{
+/*  using font family 'Luckiest Guy' font-style cursive  */
+  font-family: 'Luckiest Guy', cursive; 
+/*  background color : #E6E6EA which near to white color  */
+  background-color: #E6E6EA;
+}
+
 p{
+/*  using font size 30 pixel only  */
   font-size:30px;
 }
